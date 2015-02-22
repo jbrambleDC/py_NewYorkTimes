@@ -1,9 +1,6 @@
-import csv
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from ggplot import *
-
 plt.style.use("ggplot")
 
 #GET DATA
